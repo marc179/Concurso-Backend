@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E9A02E8D-77CA-4275-9B6B-058FB984D4F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RopaStore.Domain", "src\RopaStore.Domain\RopaStore.Domain.csproj", "{E6387790-E3A5-4DFA-989E-F662C489B278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RopaStore.Application", "src\RopaStore.Application\RopaStore.Application.csproj", "{678D82FC-8C74-4AE4-AB1A-F53C27AA2722}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RopaStore.Infrastructure", "src\RopaStore.Infrastructure\RopaStore.Infrastructure.csproj", "{A3B39DCD-86E1-4A14-9110-7FB4D9A40F4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RopaStore.API", "src\RopaStore.API\RopaStore.API.csproj", "{942911A8-0459-43F9-BEC2-A20BA3035DA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{351697F3-95C7-4A42-B3D0-85DD70AC54E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RopaStore.Tests", "tests\RopaStore.Tests\RopaStore.Tests.csproj", "{454ECFC8-0B4F-4834-81EB-90D81EF7F9C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6387790-E3A5-4DFA-989E-F662C489B278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6387790-E3A5-4DFA-989E-F662C489B278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6387790-E3A5-4DFA-989E-F662C489B278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6387790-E3A5-4DFA-989E-F662C489B278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678D82FC-8C74-4AE4-AB1A-F53C27AA2722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678D82FC-8C74-4AE4-AB1A-F53C27AA2722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678D82FC-8C74-4AE4-AB1A-F53C27AA2722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678D82FC-8C74-4AE4-AB1A-F53C27AA2722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B39DCD-86E1-4A14-9110-7FB4D9A40F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B39DCD-86E1-4A14-9110-7FB4D9A40F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B39DCD-86E1-4A14-9110-7FB4D9A40F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B39DCD-86E1-4A14-9110-7FB4D9A40F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{942911A8-0459-43F9-BEC2-A20BA3035DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942911A8-0459-43F9-BEC2-A20BA3035DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942911A8-0459-43F9-BEC2-A20BA3035DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942911A8-0459-43F9-BEC2-A20BA3035DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{454ECFC8-0B4F-4834-81EB-90D81EF7F9C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454ECFC8-0B4F-4834-81EB-90D81EF7F9C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454ECFC8-0B4F-4834-81EB-90D81EF7F9C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454ECFC8-0B4F-4834-81EB-90D81EF7F9C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E6387790-E3A5-4DFA-989E-F662C489B278} = {E9A02E8D-77CA-4275-9B6B-058FB984D4F5}
+		{678D82FC-8C74-4AE4-AB1A-F53C27AA2722} = {E9A02E8D-77CA-4275-9B6B-058FB984D4F5}
+		{A3B39DCD-86E1-4A14-9110-7FB4D9A40F4C} = {E9A02E8D-77CA-4275-9B6B-058FB984D4F5}
+		{942911A8-0459-43F9-BEC2-A20BA3035DA0} = {E9A02E8D-77CA-4275-9B6B-058FB984D4F5}
+		{454ECFC8-0B4F-4834-81EB-90D81EF7F9C4} = {351697F3-95C7-4A42-B3D0-85DD70AC54E7}
+	EndGlobalSection
+EndGlobal

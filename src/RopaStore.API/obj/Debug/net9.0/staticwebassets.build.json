@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "x56Jt92JFoVBRb6gKXA8xOUZVgAPW05vltes/jXmvkg=",
+  "Source": "RopaStore.API",
+  "BasePath": "_content/RopaStore.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

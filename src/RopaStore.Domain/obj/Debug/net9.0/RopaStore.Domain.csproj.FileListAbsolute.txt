@@ -1,0 +1,11 @@
+C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Domain\bin\Debug\net9.0\RopaStore.Domain.deps.json
+C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Domain\bin\Debug\net9.0\RopaStore.Domain.dll
+C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Domain\bin\Debug\net9.0\RopaStore.Domain.pdb
+C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Domain\obj\Debug\net9.0\RopaStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Domain\obj\Debug\net9.0\RopaStore.Domain.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Domain\obj\Debug\net9.0\RopaStore.Domain.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Domain\obj\Debug\net9.0\RopaStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Domain\obj\Debug\net9.0\RopaStore.Domain.dll
+C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Domain\obj\Debug\net9.0\refint\RopaStore.Domain.dll
+C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Domain\obj\Debug\net9.0\RopaStore.Domain.pdb
+C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Domain\obj\Debug\net9.0\ref\RopaStore.Domain.dll
