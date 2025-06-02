@@ -9,3 +9,4 @@ C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Domain\obj\Debu
 C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Domain\obj\Debug\net9.0\refint\RopaStore.Domain.dll
 C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Domain\obj\Debug\net9.0\RopaStore.Domain.pdb
 C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Domain\obj\Debug\net9.0\ref\RopaStore.Domain.dll
+C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Domain\obj\Debug\net9.0\RopaStore.Domain.sourcelink.json

@@ -13,3 +13,4 @@ C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Application\obj
 C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Application\obj\Debug\net9.0\refint\RopaStore.Application.dll
 C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Application\obj\Debug\net9.0\RopaStore.Application.pdb
 C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Application\obj\Debug\net9.0\ref\RopaStore.Application.dll
+C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Application\obj\Debug\net9.0\RopaStore.Application.sourcelink.json

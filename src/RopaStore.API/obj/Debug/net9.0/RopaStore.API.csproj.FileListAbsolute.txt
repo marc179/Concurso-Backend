@@ -177,3 +177,4 @@ C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.API\bin\Debug\n
 C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.API\obj\Debug\net9.0\RopaStore.API.sourcelink.json

@@ -17,3 +17,4 @@ C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Infrastructure\
 C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Infrastructure\obj\Debug\net9.0\RopaStore.Infrastructure.pdb
 C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Infrastructure\obj\Debug\net9.0\RopaStore.Infrastructure.genruntimeconfig.cache
 C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Infrastructure\obj\Debug\net9.0\ref\RopaStore.Infrastructure.dll
+C:\Users\lucia\OneDrive\Desktop\Concurso\RopaStore\src\RopaStore.Infrastructure\obj\Debug\net9.0\RopaStore.Infrastructure.sourcelink.json
