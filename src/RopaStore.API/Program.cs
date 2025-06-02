@@ -44,13 +44,26 @@ builder.Services.AddScoped<ISubcategoriaService, SubcategoriaService>();
 builder.Services.AddScoped<IPedidoService, PedidoService>();
 builder.Services.AddScoped<ISugerenciaService, SugerenciaService>();
 
-// Swagger/OpenAPI
+// Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowFlutter", policy =>
+    {
+        policy
+            .SetIsOriginAllowed(origin => true) // Permite cualquier origen dinámicamente
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+    });
+});
+
+
 var app = builder.Build();
 
-// Swagger UI solo en desarrollo
+// Swagger solo en desarrollo
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -58,9 +71,12 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+
+app.UseCors("AllowFlutter");
+
 app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
-
 app.Run();
